@@ -15,6 +15,12 @@ This is a **Streamlit** web application that allows users to search for movies a
 - **Clickable Results**: Movie titles link directly to their Wikipedia pages.
 - **Error Handling**: Provides informative feedback if issues arise during the search process.
 
+## 🚀 Demo
+
+You can try a live demo of the application by uploading an image and seeing the detected emotions.
+
+[🖱️ Try the Demo Here]([https://movierecommendationandsearch.streamlit.app/])
+
 ## 📺 Connect with Me
 
 - [![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat&logo=youtube)](https://www.youtube.com/@agilamlabs)
